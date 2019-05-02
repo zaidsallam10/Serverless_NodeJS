@@ -27,8 +27,8 @@ module.exports.persons = async (event) => {
 
 
 // these credentials to make unlimited access to aws account
-// Access Key ID: AKIAISB4G5R6SPRP3HSA
-// Secret Access Key : 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
+// Access Key ID: ""
+// Secret Access Key : ""
 
 // run this command 
-// serverless config credentials --provider aws --key AKIAISB4G5R6SPRP3HSA --secret 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
+// serverless config credentials --provider aws --key "" --secret ""
